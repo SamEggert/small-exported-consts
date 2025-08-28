@@ -1,3 +1,4 @@
-import { config1 } from "./consumer1";
+import { msg } from "gt-next";
+import { phrase } from "./origin";
 
-export const config2 = { name: "Brian", data: config1.data };
+export const config2 = { name: msg("Brian"), data: phrase };

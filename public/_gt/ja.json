@@ -1,0 +1,25 @@
+{
+  "5aa871958a8f167b": "Nextアプリを作成",
+  "039ccefb7f335e27": "create next app によって生成されました",
+  "8042e0a3d395c1fb": "こんにちは、世界！",
+  "9039b9fee593c39f": "Fernando",
+  "f5e488ca52a9ddde": "Ernest",
+  "5320475ee205c253": "Archie",
+  "6539a680fcf954a8": "Brian",
+  "18d46d92b8fe0e49": "Sam",
+  "5045e704be73bb8b": {
+    "t": "p",
+    "i": 1,
+    "c": "名前："
+  },
+  "2c05326608cde1bb": {
+    "t": "p",
+    "i": 1,
+    "c": "データ："
+  },
+  "90dcaecce065a155": {
+    "t": "h2",
+    "i": 1,
+    "c": "consumer5.ts"
+  }
+}

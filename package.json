@@ -4,9 +4,10 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "next build --turbopack",
+    "build": "npm run translate && next build --turbopack",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "translate": "locadex translate"
   },
   "dependencies": {
     "gt-next": "^6.3.2",
@@ -22,6 +23,7 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "15.5.2",
+    "gtx-cli": "^2.1.10",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
